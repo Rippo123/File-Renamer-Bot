@@ -63,7 +63,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm a File Renamer Bot With Permanent Thumbnail Support!
 
-Made by @Uvindu_Bro 🇱🇰
+Made by @The_Bad_Bunny_444
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
@@ -94,7 +94,7 @@ async def help(client, message):
 
 👉 Finally reply file with <code>/rename NewFile.extension</code>
 
-~ @UvinduBro_BOTs</b>""",
+~ @The_Bad_Bunny_444</b>""",
     reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
@@ -116,7 +116,7 @@ async def about(client, message):
                chat_id=message.chat.id,
                text="""<b>About File Renamer!</b>
 
-<b>📌 Developer:</b> <a href="https://t.me/Uvindu_Bro">Uvindu Bro 🇱🇰</a>
+<b>📌 Developer:</b> <a href="https://t.me/The_Bad_Bunny_444">Uvindu Bro 🇱🇰</a>
 
 <b>📌 Support:</b> <a href="https://t.me/UvinduBr">Infinity BOTs Support</a>
 

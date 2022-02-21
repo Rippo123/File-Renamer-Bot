@@ -116,19 +116,19 @@ async def about(client, message):
                chat_id=message.chat.id,
                text="""<b>About File Renamer!</b>
 
-<b>📌 Developer:</b> <a href="https://t.me/The_Bad_Bunny_444">Uvindu Bro 🇱🇰</a>
+<b>📌 Developer:</b> <a href="https://t.me/The_Bad_Bunny_444">ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>
 
 <b>📌 Support:</b> <a href="https://t.me/UvinduBr">Infinity BOTs Support</a>
 
 <b>📌 Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
-<b>~ @UvinduBro_BOTs</b>""",
+<b>~ @The_Bad_Bunny_444</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
                                             "Back", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Source Code 📦", url="https://github.com/UvinduBro/File-Renamer-Bot")
+                                            "Source Code 📦", url="https://t.me/AdhavaaBiriyaniKittiyalo")
                                     ]]
                             ),        
             disable_web_page_preview=True,        

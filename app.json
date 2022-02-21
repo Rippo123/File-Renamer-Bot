@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://uvindubro.tk/",
-    "repository": "https://github.com/UvinduBro/File-Renamer-Bot",
+    "repository": "https://github.com/Rippo123/File-Renamer-Bot",
     "success_url": "https://t.me/UvinduBro_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
